@@ -13,7 +13,7 @@ namespace A
             List<string> lista = new List<string>();
             lista.Add("holaa ");
             lista.Add("que ");
-            lista.Add("tal ");
+            lista.Add("tal como andas");
 
             for(int i=0; i<lista.Count;i++)
             {

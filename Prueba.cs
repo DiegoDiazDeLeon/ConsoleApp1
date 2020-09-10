@@ -4,6 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//git cd C://ejemplo
+//git status
+//git add .
+//git commit -m "agrege esto"
+//git push
+//git pull 
+
 namespace A
 {
     class Prueba

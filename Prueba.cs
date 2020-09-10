@@ -11,7 +11,7 @@ namespace A
         public void Imprime() {
 
             List<string> lista = new List<string>();
-            lista.Add("hola ");
+            lista.Add("holaa ");
             lista.Add("que ");
             lista.Add("tal ");
 
